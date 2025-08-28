@@ -192,3 +192,6 @@ Real-time Kalshi whale alerts. Track large and unusual trades as they happen.
 
 
 <!-- refactor: optimize WebSocket connection handling - 2025-08-26 21:52:51 -->
+
+
+<!-- fix: improve trade detection accuracy - 2025-08-28 06:03:51 -->
