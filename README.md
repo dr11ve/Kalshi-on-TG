@@ -210,3 +210,6 @@ Real-time Kalshi whale alerts. Track large and unusual trades as they happen.
 
 
 <!-- docs: update Telegram bot setup instructions - 2025-09-02 04:28:51 -->
+
+
+<!-- feat: add support for multiple market categories - 2025-09-03 00:15:51 -->
