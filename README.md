@@ -264,3 +264,6 @@ Real-time Kalshi whale alerts. Track large and unusual trades as they happen.
 
 
 <!-- fix: handle connection drops gracefully - 2025-09-19 23:46:51 -->
+
+
+<!-- refactor: optimize WebSocket connection handling - 2025-09-20 22:03:51 -->
