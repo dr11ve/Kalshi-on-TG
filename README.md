@@ -12,3 +12,6 @@ Real-time Kalshi whale alerts. Track large and unusual trades as they happen.
 
 
 <!-- perf: reduce API call frequency - 2025-09-20 11:19:21 -->
+
+
+<!-- feat: add support for multiple market categories - 2025-09-21 10:18:21 -->
