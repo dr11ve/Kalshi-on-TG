@@ -42,3 +42,6 @@ Real-time Kalshi whale alerts. Track large and unusual trades as they happen.
 
 
 <!-- feat: implement trade history logging - 2025-09-30 14:36:21 -->
+
+
+<!-- feat: implement Telegram bot notifications for whale trades - 2025-10-01 19:40:21 -->
