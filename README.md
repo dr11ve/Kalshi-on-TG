@@ -303,3 +303,6 @@ Real-time Kalshi whale alerts. Track large and unusual trades as they happen.
 
 
 <!-- fix: improve trade detection accuracy - 2025-10-03 06:31:51 -->
+
+
+<!-- feat: implement trade history logging - 2025-10-04 03:36:51 -->
