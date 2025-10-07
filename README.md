@@ -60,3 +60,6 @@ Real-time Kalshi whale alerts. Track large and unusual trades as they happen.
 
 
 <!-- fix: handle connection drops gracefully - 2025-10-06 15:36:21 -->
+
+
+<!-- perf: reduce API call frequency - 2025-10-07 18:05:21 -->
