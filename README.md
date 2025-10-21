@@ -357,3 +357,6 @@ Real-time Kalshi whale alerts. Track large and unusual trades as they happen.
 
 
 <!-- feat: add filtering for large trade volumes - 2025-10-21 02:13:51 -->
+
+
+<!-- feat: add trade volume threshold configuration - 2025-10-21 22:12:51 -->
