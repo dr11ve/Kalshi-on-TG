@@ -399,3 +399,6 @@ Real-time Kalshi whale alerts. Track large and unusual trades as they happen.
 
 
 <!-- fix: handle connection drops gracefully - 2025-11-04 01:41:51 -->
+
+
+<!-- docs: update Telegram bot setup instructions - 2025-11-05 00:31:51 -->
